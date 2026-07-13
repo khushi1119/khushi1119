@@ -95,25 +95,21 @@ _React.js · Tailwind CSS · Framer Motion_
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi1119&show_icons=true&theme=radical&count_private=true" alt="Khushi's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1119&theme=radical" alt="Khushi's Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi1119&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Khushi's GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=khushi1119&theme=radical" alt="Khushi's Streak" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 📫 Let's Connect
+📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-tiwari-881539334/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">LinkedIn</a> •
   <a href="mailto:tiwari.khushi1119@gmail.com">Email</a> •
   <a href="https://github.com/khushi1119">GitHub</a>
 </p>
-
 <p align="center"><i>⭐ From <a href="https://github.com/khushi1119">khushi1119</a> - feel free to explore and connect!</i></p>
