@@ -1,115 +1,233 @@
-<h1 align="center">Hi there, I'm Khushi Tiwari 👋</h1>
-<h3 align="center">Full Stack MERN Developer | AI/ML Enthusiast | B.Tech CST Student</h3>
+<h1 align="center">Hi 👋, I'm Khushi Tiwari</h1>
+
+<h3 align="center">
+Aspiring Software Engineer • Full Stack MERN Developer • Building Scalable Web Applications
+</h3>
 
 <p align="center">
-  Turning ideas into impactful web applications with a focus on performance and user experience.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-tiwari-881539334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tiwari.khushi1119@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/khushi1119"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Technology, Shri Shankaracharya Professional University (2023–2027) — 89.3%
-- 🥇 1st rank in CST during 1st and 2nd academic years
-- 🏆 Finalist at **HackOMaNia 2K25**, a national-level hackathon
-- 🥈 2nd position in a UAV Drone Bootcamp Competition
-- 🌱 Strong fundamentals in DSA, OOP, DBMS, and Operating Systems
-- 💡 Building real-world full-stack + AI-integrated projects
+I'm a passionate **Full Stack MERN Developer** and **Computer Science undergraduate** who enjoys transforming ideas into scalable web applications.
+
+I love building modern web applications using **React.js, Node.js, Express.js, MongoDB and TypeScript** while continuously learning industry technologies like **Docker, CI/CD, Kubernetes and System Design**.
+
+My goal is to become a Software Engineer capable of building products that solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Focus
 
-**Languages**
+- 🔭 Building Full Stack MERN Applications
+- 🌱 Learning Docker, CI/CD & Kubernetes
+- 💻 Practicing Data Structures & Algorithms
+- 🚀 Preparing for Software Engineering Internships
+- 🤝 Looking to collaborate on Open Source Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://skillicons.dev/icons?i=js,ts,cpp" />
 </p>
 
-**Frontend**
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-**Backend & Database**
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-**Tools & Platforms**
+### Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+# 📌 Featured Projects
 
-**🤖 [HireAIlytics](https://github.com/khushi1119/HireAIlytics) — AI Resume Analyzer**
-_React.js · TypeScript · Tailwind CSS · Puter APIs_
-- AI-powered resume analyzer with ATS-based evaluation and feedback
-- Keyword extraction, PDF preview, resume parsing, and ATS scoring
-- Deployed on Vercel with a responsive, performance-optimized UI
+## 🎥 Connectify
 
-**🎥 [Connectify](https://github.com/khushi1119/Connectify) — Video Conferencing Platform**
-_MERN Stack · WebRTC · Socket.IO_
-- Full-stack video conferencing platform with real-time signaling
-- Secure authentication, meeting rooms, and REST APIs
-- Deployed on Render with MongoDB Atlas, CORS, and production env config
+### Real-Time Video Conferencing Platform
 
-**💼 [Portfolio Website](https://github.com/khushi1119/myPortfolio)**
-_React.js · Tailwind CSS · Framer Motion_
-- Responsive portfolio with modern UI/UX and smooth animations
-- Reusable components and optimized routing
-- Deployed on Vercel, cross-browser compatible
+**Tech Stack**
 
-> 🔗 Add your live demo links here for each project — e.g. `[Live Demo](your-live-link)`
+MERN • WebRTC • Socket.IO
 
----
+✨ Features
 
-### 🏅 Certifications
+- Secure Authentication
+- Meeting Rooms
+- Video & Audio Calling
+- REST APIs
+- MongoDB Atlas
+- Responsive UI
 
-- **Bootcamp on Guidance and Path Planning for UAV** — IIT Bhilai (MeitY, Govt. of India)
-- **Delta (Full Stack Web Development)** — Apna College
+🔗 GitHub
+
+https://github.com/khushi1119/Connectify
+
+🌍 Live
+
+https://connectifyfrontend-3gra.onrender.com/
 
 ---
 
-📊 GitHub Stats
+## 🤖 HireAIlytics
+
+### AI Resume Analyzer
+
+**Tech Stack**
+
+React • TypeScript • TailwindCSS • Puter APIs
+
+✨ Features
+
+- ATS Resume Score
+- Resume Parsing
+- PDF Preview
+- AI Feedback
+- Keyword Analysis
+
+🔗 GitHub
+
+https://github.com/khushi1119/HireAIlytics
+
+🌍 Live
+
+https://hire-a-ilytics.vercel.app/
+
+---
+
+## 💼 Portfolio Website
+
+Modern Developer Portfolio
+
+✨ Features
+
+- Responsive UI
+- Framer Motion Animations
+- Dark Theme
+- Interactive Components
+
+🔗 GitHub
+
+https://github.com/khushi1119/myPortfolio
+
+🌍 Live
+
+https://my-portfolio-seven-bice-99.vercel.app/
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Rank in B.Tech CST during 1st & 2nd Academic Years
+
+🏆 Finalist — HackOMaNia 2K25
+
+🥈 2nd Position — UAV Drone Bootcamp Competition
+
+---
+
+# 📜 Certifications
+
+📌 IIT Bhilai
+
+Bootcamp on Guidance and Path Planning for UAV
+
+📌 Apna College
+
+Delta Full Stack Web Development
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi1119&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Khushi's GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=khushi1119&theme=radical" alt="Khushi's Streak" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=khushi1119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Khushi's GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=khushi1119&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
-📫 Let's Connect
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">LinkedIn</a> •
-  <a href="mailto:tiwari.khushi1119@gmail.com">Email</a> •
-  <a href="https://github.com/khushi1119">GitHub</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi1119&theme=tokyo-night"/>
+
 </p>
-<p align="center"><i>⭐ From <a href="https://github.com/khushi1119">khushi1119</a> - feel free to explore and connect!</i></p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/khushi-tiwari-881539334/">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:tiwari.khushi1119@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/khushi1119">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://my-portfolio-seven-bice-99.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to connect and collaborate.
+
+</h3>
