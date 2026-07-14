@@ -1,34 +1,49 @@
-<h1 align="center">Hi 👋, I'm Khushi Tiwari</h1>
+<h1 align="center">
+Hi 👋 I'm Khushi Tiwari
+</h1>
 
 <h3 align="center">
-Aspiring Software Engineer • Full Stack MERN Developer • Building Scalable Web Applications
+Full Stack MERN Developer • Software Engineer Aspirant • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Open+Source+Learner;Always+Learning+New+Technologies" />
+Building scalable web applications that solve real-world problems.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies;Open+Source+Learner;Software+Engineer+in+Progress" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khushi1119&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/khushi1119?label=Followers&style=flat&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/khushi1119?label=Stars&style=flat&color=yellow"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👩‍💻 About Me
 
-I'm a passionate **Full Stack MERN Developer** and **Computer Science undergraduate** who enjoys transforming ideas into scalable web applications.
-
-I love building modern web applications using **React.js, Node.js, Express.js, MongoDB and TypeScript** while continuously learning industry technologies like **Docker, CI/CD, Kubernetes and System Design**.
-
-My goal is to become a Software Engineer capable of building products that solve real-world problems.
-
----
+- 🎓 B.Tech Computer Science & Technology (2023–2027)
+- 💻 Passionate Full Stack MERN Developer
+- 🚀 Interested in scalable web applications and AI-powered solutions
+- 🌱 Currently learning Docker, CI/CD, Kubernetes & System Design
+- 📚 Strong fundamentals in DSA, OOP, DBMS and Operating Systems
+- 🎯 Goal: Become a Software Engineer building impactful products
 
 ## 🚀 Current Focus
 
-- 🔭 Building Full Stack MERN Applications
-- 🌱 Learning Docker, CI/CD & Kubernetes
-- 💻 Practicing Data Structures & Algorithms
-- 🚀 Preparing for Software Engineering Internships
-- 🤝 Looking to collaborate on Open Source Projects
-
----
+- 🔭 Building production-ready MERN applications
+- 🌱 Exploring Docker & DevOps
+- 💻 Solving DSA problems daily
+- 📖 Preparing for Software Engineering Internships
+- 🤝 Open to collaborating on Full Stack & Open Source projects
 
 ## 🛠️ Tech Stack
 
@@ -155,30 +170,43 @@ Bootcamp on Guidance and Path Planning for UAV
 Delta Full Stack Web Development
 
 ---
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=khushi1119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="Khushi's GitHub Stats"
-  />
+<table align="center">
+<tr>
+<td align="center">
 
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=khushi1119&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<img
+src="https://github-readme-stats-steel-two-71.vercel.app/api?username=khushi1119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+height="170"
+/>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+</td>
+
+<td align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=khushi1119&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br>
+
+<img
+src="https://github-readme-stats-steel-two-71.vercel.app/api/top-langs/?username=khushi1119&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="170"
+/>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
