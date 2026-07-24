@@ -227,7 +227,6 @@ height="170"
   <img src="https://raw.githubusercontent.com/khushi1119/khushi1119/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
 
 # 🌐 Connect With Me
 
@@ -259,7 +258,6 @@ height="170"
 
 </p>
 
----
 
 <h3 align="center">
 
